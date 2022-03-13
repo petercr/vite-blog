@@ -2,6 +2,9 @@
 
 This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) boilerplate built with [Vite](https://vitejs.dev).
 
+I plan to add on MDX to the project, as a new feature.
+Who know's maybe I will even add some other new features.
+
 ## What's inside?
 
 - [ReactJS](https://reactjs.org)
@@ -16,7 +19,7 @@ This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang
 
 ## Getting started
 
-1. Create the project.
+1. This is how I started the project.
 
    ```bash
    npx degit fabien-ml/react-ts-vite-template my-app
